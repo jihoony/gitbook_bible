@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
-* [마태복음](<README (1).md>)
+* [마태복음](README.md)
   * [001\~010](undefined/001-010/README.md)
     * [001 1-1 아브라함과 다윗의 자손 예수 그리스도](undefined/001-010/001-1-1.md)
     * [002 1-2 성령으로 동정녀에서 잉태된 예수 그리스도](undefined/001-010/002-1-2.md)
@@ -27,7 +26,6 @@
   * [021\~030](undefined/021-030/README.md)
     * [021 5-7 화평케 하는 사람의 행복](undefined/021-030/021-5-7.md)
     * [022 5-8 의를 위하여 핍박받는 사람의 행복](undefined/021-030/022-5-8.md)
-  * [Page 1](undefined/page-1.md)
   * [161\~170](undefined/161-170/README.md)
     * [163 25-1 천국비유(1) 열처녀비유](undefined/161-170/163-25-1-1.md)
     * [164 25-2 천국비유(2) 달란트비유(1)](undefined/161-170/164-25-2-2-1.md)
