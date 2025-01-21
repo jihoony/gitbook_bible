@@ -4,25 +4,31 @@ description: temporaries
 
 # Audios Temporary
 
-{% file src=".gitbook/assets/090 11-3 주의 길을 예비하는 사람 2-ytb.m4a" %}
+{% file src=".gitbook/assets/095 12-3 내마음에 기뻐하는 택한 종.mp3" %}
 
-{% file src=".gitbook/assets/090 11-3 주의 길을 예비하는 사람 2.mp3" %}
+{% file src=".gitbook/assets/092 11-5 예수님의 초청-ytb.m4a" %}
 
-{% file src=".gitbook/assets/087 10-12 제자들이 받는 보상.mp3" %}
+{% file src=".gitbook/assets/099 12-7 예수님의 참 가족.mp3" %}
 
-{% file src=".gitbook/assets/083 10-8 크리스챤의 현실 1.mp3" %}
+{% file src=".gitbook/assets/094 12-2 안식일의 주인 2.mp3" %}
 
-{% file src=".gitbook/assets/085 10-10 세상을 두려워 하지 말라.mp3" %}
+{% file src=".gitbook/assets/091 11-4 복음을 거부하는 사람들.mp3" %}
 
-{% file src=".gitbook/assets/082 10-7 예수님의 전도 전략 2.mp3" %}
+{% file src=".gitbook/assets/097 12-5 영원히 용서받을 수 없는 죄.mp3" %}
 
-{% file src=".gitbook/assets/088 11-1 예수님에 대한 의심.mp3" %}
+{% file src=".gitbook/assets/094 12-2 안식일의 주인 2-ytb.m4a" %}
 
-{% file src=".gitbook/assets/086 10-11 그리스도인이 치루어야할 댓가.mp3" %}
+{% file src=".gitbook/assets/093 12-1 안식일의 주인 1.mp3" %}
 
-{% file src=".gitbook/assets/084 10-9 크리스챤의 현실 2.mp3" %}
+{% file src=".gitbook/assets/096 12-4 하나님 나라와 귀신 추방.mp3" %}
 
-{% file src=".gitbook/assets/089 11-2 주의 길을 예비하는 사람 1.mp3" %}
+{% file src=".gitbook/assets/092 11-5 예수님의 초청.mp3" %}
 
-{% file src=".gitbook/assets/081 10-6 예수님의 전도 전략 1.mp3" %}
+{% file src=".gitbook/assets/091 11-4 복음을 거부하는 사람들-ytb.m4a" %}
+
+{% file src=".gitbook/assets/100 13-1 비유로 말씀 하시더라.mp3" %}
+
+{% file src=".gitbook/assets/095 12-3 내마음에 기뻐하는 택한 종-ytb.m4a" %}
+
+{% file src=".gitbook/assets/098 12-6 참된 표적.mp3" %}
 
